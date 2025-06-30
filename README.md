@@ -13,6 +13,6 @@ ________________________________________
 •	Source: (https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
 •	Contains information on orders, dates, customers and product categories.
 ________________________________________
-🌍 Interactive Dashboard
+🌍 Dashboard
 🔗 Click here to open the dashboard on Google Colab:
 https://colab.research.google.com/drive/1UDRe1gSGk7Gg5OQKHKPMpUGVtuOpNpjJ?usp=sharing
