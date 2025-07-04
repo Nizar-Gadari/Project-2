@@ -1,4 +1,6 @@
-📊 Sales Performance Dashboard
+# Project-2-
+Sales Performance Dashboard
+
 This project is part of Project 2 of my data analytics portfolio. It focuses on building a dashboard that analyzes and visualizes key performance metrics using sales data.
 ________________________________________
 🔍 Objective
