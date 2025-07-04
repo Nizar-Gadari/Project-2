@@ -24,3 +24,11 @@ ________________________________________
 ##🎛️ Interactive Dashboard
 🔗 Click here to open the dashboard on Power BI:                               
 https://github.com/Nizar-Gadari/Project-2/raw/refs/heads/main/Project%202.pbix
+________________________________________
+
+## 🛠️ Tools Used
+
+- 🐍 Python  
+- 🧪 Google Colab  
+- 📊 Power BI
+
