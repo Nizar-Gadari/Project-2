@@ -22,4 +22,5 @@ ________________________________________
 https://colab.research.google.com/drive/1UDRe1gSGk7Gg5OQKHKPMpUGVtuOpNpjJ?usp=sharing
 ________________________________________
 ##🎛️ Interactive Dashboard
+🔗 Click here to open the dashboard on Power BI:
 https://github.com/Nizar-Gadari/Project-2/raw/refs/heads/main/Project%202.pbix
