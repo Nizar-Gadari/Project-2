@@ -20,3 +20,7 @@ ________________________________________
 ##🌍 Dashboard
 🔗 Click here to open the dashboard on Google Colab:
 https://colab.research.google.com/drive/1UDRe1gSGk7Gg5OQKHKPMpUGVtuOpNpjJ?usp=sharing
+
+
+
+https://github.com/Nizar-Gadari/Project-2/raw/refs/heads/main/Project%202.pbix
