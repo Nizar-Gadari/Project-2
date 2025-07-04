@@ -1,5 +1,4 @@
-# Project-2-
-Sales Performance Dashboard
+# Project-2- Sales Performance Dashboard
 
 # Introduction
 
