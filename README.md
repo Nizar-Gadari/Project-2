@@ -12,11 +12,11 @@ The company aims to gain a better understanding of:
 - Areas of underperformance
 - Opportunities for optimization through segmentation or promotions
 ________________________________________
-##📑 Dataset
+## 📑 Dataset
 •	Source: (https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
 •	Contains information on orders, dates, customers and product categories.
 ________________________________________
-🔍 Project Steps:
+## 🔍 Project Steps:
 1. Data Exploration and Cleaning
    - Cleaning of dates and missing values
    - Creation of new variables: month, delivery time, profit margins
@@ -37,11 +37,11 @@ ________________________________________
    - Interactive filters: region, customer segment, date
    - Maps, line charts, treemaps, and more
 ________________________________________
-##🌍 Dashboard
+## 🌍 Dashboard
 🔗 Click here to open the dashboard on Google Colab:
 https://colab.research.google.com/drive/1UDRe1gSGk7Gg5OQKHKPMpUGVtuOpNpjJ?usp=sharing
 ________________________________________
-##🎛️ Interactive Dashboard
+## 🎛️ Interactive Dashboard
 🔗 Click here to open the dashboard on Power BI:                               
 https://github.com/Nizar-Gadari/Project-2/raw/refs/heads/main/Project%202.pbix
 ________________________________________
