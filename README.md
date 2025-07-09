@@ -1,11 +1,11 @@
-📈 Project 2: Sales Performance Dashboard
+## 📈 Project 2: Sales Performance Dashboard
 
 This project is part of my Data Analytics Portfolio (Project 2) and focuses on designing a dynamic dashboard that analyzes and visualizes key sales performance indicators. The aim is to draw insights from sales data through both diagnostic and predictive analytics, using Python and modern visualization tools.
 ________________________________________
-## 🔍 Objective:
+## 🔍 Objective
 This project created an interactive dashboard to analyze a company's sales performance. It provides both visual descriptive analysis and predictive insights from sales data to support strategic decision-making.
 ________________________________________
-## Business Context:
+## Business Context
 The company aims to gain a better understanding of:
 - The most profitable products and customer segments
 - Sales trends by period, category, and region
@@ -16,7 +16,7 @@ ________________________________________
 •	Source: (https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
 •	Contains information on orders, dates, customers and product categories.
 ________________________________________
-## 🔍 Project Steps:
+## 🔍 Project Steps
 1. Data Exploration and Cleaning
    - Cleaning of dates and missing values
    - Creation of new variables: month, delivery time, profit margins
