@@ -1,4 +1,3 @@
-## 📈 Project 2: 
 ## Sales Performance Dashboard
 
 This project is part of my Data Analytics Portfolio (Project 2) and focuses on designing a dynamic dashboard that analyzes and visualizes key sales performance indicators. The aim is to draw insights from sales data through both diagnostic and predictive analytics, using Python and modern visualization tools.
