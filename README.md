@@ -1,34 +1,35 @@
-# Project-2- 
-Sales Performance Dashboard
+📈 Project 2: Sales Performance Dashboard
+🧠 Introduction
+This project is part of my Data Analytics Portfolio (Project 2) and focuses on designing a dynamic dashboard that analyzes and visualizes key sales performance indicators. The aim is to draw insights from sales data through both diagnostic and predictive analytics, using Python and modern visualization tools.
 
-# Introduction
+🎯 Objective
+To explore and analyze sales data in order to identify trends and key performance metrics, including:
 
-This project is part of Project 2 of my data analytics portfolio. It focuses on building a dashboard that analyzes and visualizes key performance metrics using sales data.
-________________________________________
-##🔍 Objective
-To explore and analyze sales data, identify trends and key metrics such as:
-•	Total sales
-•	Top-selling products
-•	Monthly sales trends
-•	Sales distribution by customer segment
-The goal is to demonstrate both diagnostic and predictive analytics using Python and visualization tools.
-________________________________________
-##📑 Dataset
-•	Source: (https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
-•	Contains information on orders, dates, customers and product categories.
-________________________________________
-##🌍 Dashboard
-🔗 Click here to open the dashboard on Google Colab:
-https://colab.research.google.com/drive/1UDRe1gSGk7Gg5OQKHKPMpUGVtuOpNpjJ?usp=sharing
-________________________________________
-##🎛️ Interactive Dashboard
-🔗 Click here to open the dashboard on Power BI:                               
-https://github.com/Nizar-Gadari/Project-2/raw/refs/heads/main/Project%202.pbix
-________________________________________
+💰 Total Sales
 
-## 🛠️ Tools Used
+🛍️ Top-Selling Products
 
-- 🐍 Python  
-- 🧪 Google Colab  
-- 📊 Power BI
+📆 Monthly Sales Trends
 
+👥 Sales Distribution by Customer Segment
+
+The goal is to showcase practical data storytelling and dashboard design for business decision-making.
+
+🗂️ Dataset
+Source: Kaggle – Sales Forecasting Dataset
+
+Content: Includes details on orders, order dates, customer IDs, and product categories.
+
+🌐 Dashboard Access
+📊 Google Colab Dashboard (Python-based)
+🔗 Open in Google Colab
+
+🎛️ Power BI Interactive Dashboard
+🔗 Download and view the Power BI Dashboard (.pbix)
+
+🧰 Tools & Technologies Used
+🐍 Python – Data cleaning, analysis, and modeling
+
+🧪 Google Colab – Interactive coding environment
+
+📊 Power BI – Dashboard development and interactive data visualization
